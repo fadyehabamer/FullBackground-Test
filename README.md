@@ -1,2 +1,2 @@
-# background test
-full screen wallpaper using Css3
+# Full background
+> full screen wallpaper using Css3
